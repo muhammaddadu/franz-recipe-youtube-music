@@ -1,0 +1,13 @@
+{
+  "id": "youtube-music",
+  "name": "youtube-music",
+  "version": "1.0.0",
+  "description": "Youtube Music recipe for franz",
+  "main": "index.js",
+  "author": "M <muhammad@dadu.co>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://music.youtube.com",
+    "hasNotificationSound": true
+  }
+}
